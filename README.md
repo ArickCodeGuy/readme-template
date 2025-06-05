@@ -1,6 +1,6 @@
 # Every project readme template
 
-Purpose of this project is to copy/paste in every other project
+Purpose of `Every project readme template` is to copy/paste in every other project.
 
 - Whats your project about
 - Links to working envs
@@ -18,32 +18,35 @@ Purpose of this project is to copy/paste in every other project
 
 ## Getting started
 
-Hoops you have to jump to run your project  
-Like:
+Hoops you have to jump to run your project.
 
 ```cmd
+npm i
 npm run dev
 ```
 
 ## Versions
 
-That would include dependancies that are not tracked in `package.json` file.  
-E.g.
+That would include dependancies that are not tracked in `package.json` or can not be directly tracked.
 
 - Node - v18.13.0
 - pnpm - 8.15.3
 
 ## Contribute
 
-That part is all about steps needed to contribute to any repo that you'll work with  
-`Preffered editor` to avoid some issues. Should also include `prefferred settings` on your code editor.  
-Also should include file formatting settings
+That part is all about steps needed to contribute to any repo that you'll work with.
+
+- Code editor
+- Prefferred settings
+- Editor extentions
+- Formatting settings
 
 ### Git
 
 - Branch naming
-- Merge requests. Description. Reviewer/Assignee
+- Merge requests. Description. Reviewer/Assignee. Merge or rebase
 - Issues
+- Commits naming
 
 ### Style guide
 
@@ -52,6 +55,7 @@ For `javascript`/`typescript` that would include:
 
 - File structure. File naming
 - Variable naming
+- Types or interfaces
 - Function naming. Function declaration
 - Patterns. Eg. Class based approaches. Functional approaches
 - Comments in code
@@ -67,3 +71,4 @@ Describe how you test your code.
 - Other envs links
 - Contact. May include links to head guy of repo or who's responsible for docs
 - CI/CD
+- Requirements. Availability, durability, latency, security. Other non-functional requirements
