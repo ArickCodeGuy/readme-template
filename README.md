@@ -10,7 +10,7 @@ Purpose of `Every project readme template` is to copy/paste in every other proje
 
 ## Table of Contents
 
-- [Getting started](#getting-started)[
+- [Getting started](#getting-started)
 - [Versions](#versions)
 - [Contribute](#contribute)
   - [Git](#git)
