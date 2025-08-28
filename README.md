@@ -68,10 +68,9 @@ Describe how you test your code.
 
 ## Optional
 
-- Demo link
 - High level architecture overview
 - Licencing
-- Other envs links. Preferable table of running instances
+- Other envs links
 - Contact. May include links to head guy of repo or who's responsible for docs ([@ArickCodeGuy](https://github.com/ArickCodeGuy))
 - CI/CD
 - Requirements. Functional, Non-functional. Availability, durability, latency, security.
