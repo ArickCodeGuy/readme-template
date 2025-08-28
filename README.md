@@ -1,4 +1,6 @@
-# Every project readme template
+# Every project readme template (Title goes here)
+
+[Link](https://github.com/ArickCodeGuy/readme-template) to README.md template
 
 Purpose of `Every project readme template` is to copy/paste in every other project.
 
@@ -8,7 +10,7 @@ Purpose of `Every project readme template` is to copy/paste in every other proje
 
 ## Table of Contents
 
-- [Getting started](#getting-started)
+- [Getting started](#getting-started)[
 - [Versions](#versions)
 - [Contribute](#contribute)
   - [Git](#git)
@@ -66,9 +68,10 @@ Describe how you test your code.
 
 ## Optional
 
+- Demo link
 - High level architecture overview
 - Licencing
-- Other envs links
-- Contact. May include links to head guy of repo or who's responsible for docs
+- Other envs links. Preferable table of running instances
+- Contact. May include links to head guy of repo or who's responsible for docs (@ArickCodeGuy)
 - CI/CD
-- Requirements. Availability, durability, latency, security. Other non-functional requirements
+- Requirements. Functional, Non-functional. Availability, durability, latency, security.
