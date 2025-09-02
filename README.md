@@ -1,6 +1,6 @@
 # Every project readme template (Title goes here)
 
-[Link](https://github.com/ArickCodeGuy/readme-template) to README.md template
+[README.md template](https://github.com/ArickCodeGuy/readme-template)
 
 Purpose of `Every project readme template` is to copy/paste in every other project.
 
