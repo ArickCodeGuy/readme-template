@@ -1,4 +1,5 @@
 # Every project readme template (Title goes here)
+<a id="readme-top"></a>
 
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
@@ -27,12 +28,16 @@ npm i
 npm run dev
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Versions
 
 That would include dependancies that are not tracked in `package.json` or can not be directly tracked.
 
 - Node - v18.13.0
 - pnpm - 8.15.3
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contribute
 
@@ -66,6 +71,8 @@ For `javascript`/`typescript` that would include:
 
 Describe how you test your code.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Optional
 
 - High level architecture overview
@@ -74,3 +81,5 @@ Describe how you test your code.
 - Contact. May include links to head guy of repo or who's responsible for docs ([@ArickCodeGuy](https://github.com/ArickCodeGuy))
 - CI/CD
 - Requirements. Functional, Non-functional. Availability, durability, latency, security.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
