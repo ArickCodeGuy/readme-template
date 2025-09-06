@@ -39,8 +39,8 @@ That would include dependancies that are not tracked in `package.json` or can no
 That part is all about steps needed to contribute to any repo that you'll work with.
 
 - Code editor
-- Prefferred settings
-- Editor extentions
+- Preferred settings
+- Editor extensions
 - Formatting settings
 
 ### Git
